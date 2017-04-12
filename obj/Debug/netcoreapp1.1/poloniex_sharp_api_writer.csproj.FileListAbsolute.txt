@@ -1,0 +1,8 @@
+/Users/makentosh/Documents/poloniex_sharp_api_writer/bin/Debug/netcoreapp1.1/poloniex_sharp_api_writer.deps.json
+/Users/makentosh/Documents/poloniex_sharp_api_writer/bin/Debug/netcoreapp1.1/poloniex_sharp_api_writer.runtimeconfig.json
+/Users/makentosh/Documents/poloniex_sharp_api_writer/bin/Debug/netcoreapp1.1/poloniex_sharp_api_writer.runtimeconfig.dev.json
+/Users/makentosh/Documents/poloniex_sharp_api_writer/bin/Debug/netcoreapp1.1/poloniex_sharp_api_writer.dll
+/Users/makentosh/Documents/poloniex_sharp_api_writer/bin/Debug/netcoreapp1.1/poloniex_sharp_api_writer.pdb
+/Users/makentosh/Documents/poloniex_sharp_api_writer/obj/Debug/netcoreapp1.1/poloniex_sharp_api_writer.AssemblyInfo.cs
+/Users/makentosh/Documents/poloniex_sharp_api_writer/obj/Debug/netcoreapp1.1/poloniex_sharp_api_writer.dll
+/Users/makentosh/Documents/poloniex_sharp_api_writer/obj/Debug/netcoreapp1.1/poloniex_sharp_api_writer.pdb
